@@ -23,7 +23,7 @@ public class Main {
 	public static ArrayList<Producto> pedido;
 
 	public static void main(String[] args) {
-
+		System.out.println("Hola");
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				try {
